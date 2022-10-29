@@ -5,6 +5,7 @@
 <h2 align="center">⚙️ Join > https://t.me//Crush_World_xD
 </h2>
 
+https://te.legra.ph/file/8eb37553377f7f1d4a796.jpg
 
 <h3> DEPLOY TO HEROKU </h3>
 
@@ -23,4 +24,7 @@
 
 
 ☕︎𝐃𝐞𝐩𝐥𝐨𝐲 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤 🗾 
-✍︎𝐑𝐞𝐩𝐨 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐁𝐲 https://t.me//AnonymousBoyxD 
+
+✍︎𝐑𝐞𝐩𝐨 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐁𝐲 » https://t.me//AnonymousBoyxD «
+
+ఌ︎𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 » https://t.me//BothubxD ꨄ︎

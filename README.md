@@ -16,9 +16,10 @@
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Technoboy02/TechnoString?v=1) 
 
-    - Click On Generate String
-    - Then Click On Green Run Button.
-    - Wait for a while then fill the details.
-    - String will be saved in your Saved Message.
+    ☞︎︎︎ Click On Generate String
+    ☞︎︎︎ Then Click On Green Run Button.
+    ☞︎︎︎ Wait for a while then fill the details.
+    ☞︎︎︎ String will be saved in your Saved Message.
 
 
+☕︎𝐃𝐞𝐩𝐥𝐨𝐲 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤 🗾 

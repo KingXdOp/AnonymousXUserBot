@@ -1,8 +1,8 @@
 
 
-<h1 align="center">FORK AT YOUR OWN RISK</h1>
+<h1 align="center">FORK AT YOUR OWN RISK </h1>
 
-<h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
+<h2 align="center">⚙️ Join > https://t.me//Crush_world_xD⚙️</h2>
 
 
 <h3> DEPLOY TO HEROKU </h3>

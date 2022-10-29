@@ -2,7 +2,7 @@
 
 <h1 align="center">FORK AT YOUR OWN RISK </h1>
 
-<h2 align="center">⚙️ Join > @Crush_World_xD 
+<h2 align="center">⚙️ Join > https://t.me//Crush_World_xD
 </h2>
 
 
